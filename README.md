@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Proyecto de Clusterización de Patrones de Viaje de Taxis
 
 
@@ -207,3 +208,5 @@ Si encuentras algún problema que no puedes resolver, por favor contacta al equi
 
 - **Correo Electrónico**: antomore353@hotmail.com
 - **Teléfono**: +???????????
+
+# proyecto-taxis
