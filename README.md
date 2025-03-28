@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-﻿# Proyecto de Clusterización de Patrones de Viaje de Taxis
+
+# Proyecto de Clusterización de Patrones de Viaje de Taxis
 
 
 ## Descripción del Modelo
@@ -130,7 +130,7 @@ Primero, clona el repositorio del proyecto en tu máquina local:
 
 
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/tonygrill/proyecto-taxis.git
 cd tu_repositorio
 
 
